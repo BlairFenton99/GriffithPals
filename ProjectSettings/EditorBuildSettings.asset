@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Core/Main Menu.unity
+    guid: 5cf24fbb51e688740bdc3826852b059b
+  - enabled: 1
+    path: Assets/Scenes/Levels/level_01_egg.unity
+    guid: 255c5324dca28444c91659f7d6853c1f
+  - enabled: 1
+    path: Assets/Scenes/Levels/level_02_bossfight.unity
+    guid: 90d2ec08df84fec4d999f07e2a6c616e
+  - enabled: 1
+    path: Assets/Scenes/Levels/level_03_portal.unity
+    guid: f3826cec4f6c73848817f43e92d8eb69
+  - enabled: 1
+    path: Assets/Scenes/Levels/level_04_statue.unity
+    guid: 7ca1382724d25ce45b58874a0652c608
+  - enabled: 1
+    path: Assets/Scenes/Levels/level_05_riddles.unity
+    guid: 799ed17850770bc448bc1f5faab06f05
+  - enabled: 1
+    path: Assets/Scenes/Levels/level_06_finalbattle.unity
+    guid: 1a1e819607229804ab081c5d5889ea09
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 6ee72d15cf39dd748a13eac57397b9af,
+      type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 0465d33c6aee55f44b0237db8b0e0259,
+      type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 3b224cae2b69e4a4185b57ae328b8dcc,
+      type: 2}
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: 0b53a025a635a4393ba0b49822242280,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 3fd4fc0127790db4bae83f7b77da8d45,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: b07c4ba7650be4c25b3d0c497e7e2bb8,
+      type: 2}
+  m_UseUCBPForAssetBundles: 0
